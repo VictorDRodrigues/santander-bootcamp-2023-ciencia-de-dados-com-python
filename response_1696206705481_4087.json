@@ -1,0 +1,30 @@
+{
+  "id": 4087,
+  "name": "Perceval",
+  "account": {
+    "id": 4316,
+    "number": "78761-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 3960,
+    "number": "7876 **** **** 1111",
+    "limit": 1000
+  },
+  "features": [
+    {
+      "id": 1273,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 8004,
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+}

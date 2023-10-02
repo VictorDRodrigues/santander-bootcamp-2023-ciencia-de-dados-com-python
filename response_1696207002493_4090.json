@@ -1,0 +1,30 @@
+{
+  "id": 4090,
+  "name": "Burlie",
+  "account": {
+    "id": 4319,
+    "number": "78801-1",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 3963,
+    "number": "7880 **** **** 1111",
+    "limit": 1000
+  },
+  "features": [
+    {
+      "id": 1276,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 8007,
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+}

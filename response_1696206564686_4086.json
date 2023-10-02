@@ -1,0 +1,30 @@
+{
+  "id": 4086,
+  "name": "Dominica",
+  "account": {
+    "id": 4315,
+    "number": "78751-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 3959,
+    "number": "7875 **** **** 1111",
+    "limit": 1000
+  },
+  "features": [
+    {
+      "id": 1272,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 8003,
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+}

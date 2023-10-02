@@ -1,0 +1,30 @@
+{
+  "id": 4088,
+  "name": "Aleda",
+  "account": {
+    "id": 4317,
+    "number": "78781-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 3961,
+    "number": "7878 **** **** 1111",
+    "limit": 1000
+  },
+  "features": [
+    {
+      "id": 1274,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 8005,
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+}
